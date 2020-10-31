@@ -30,3 +30,15 @@
     outline: none;
     border-radius: 5px;
 }
+@media (max-width: 767px) {
+    .button {
+        font-size: 1.3em;
+    }
+    .modalWindow {
+        width: 70vw;
+        height: 30vh;
+    }
+    .congratulation {
+        font-size: 1.2em;
+    }
+}

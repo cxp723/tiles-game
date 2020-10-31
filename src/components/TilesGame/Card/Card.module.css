@@ -38,3 +38,12 @@
     justify-content: center;
     align-items: center;
 }
+@media (max-width: 767px) {
+    .card {
+        height: 16vw;
+        width: 16vw;
+    }
+    .cardContent {
+        font-size: 10vw;
+    }
+}
