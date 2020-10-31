@@ -1,6 +1,9 @@
 .cardField {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 10px;
+    gap: 2vh;
     margin: auto;
+}
+.roundsMessage {
+    font-size: 5vh;
 }

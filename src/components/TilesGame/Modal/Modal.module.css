@@ -17,6 +17,9 @@
     background-color: white;
     padding: 20px;
 }
+.congratulation {
+    font-size: 5vh;
+}
 .button {
     margin: 0 10%;
     background-color: yellowgreen;

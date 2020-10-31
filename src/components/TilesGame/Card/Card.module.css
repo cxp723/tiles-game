@@ -11,15 +11,15 @@
 }
 .card {
     position: relative;
-    height: 18vh;
-    width: 18vh;
+    height: 16vh;
+    width: 16vh;
     border: 6px solid white;
     border-radius: 5px;
     transition: .5s ease-in;
     transform-style: preserve-3d;
 }
 .cardBack {
-    background-color: lightpink;
+    background: radial-gradient(circle at 65% 15%, aqua, darkblue);
     z-index: 2;
 }
 .cardContent, .cardBack {
